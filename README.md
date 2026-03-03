@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi there 👋 I'm Liovirgilda Mendonca! Nice to meet you!<br><br>- 🔭 I’m currently working on completing the track "Data Analyst in SQL" on DataCamp.<br>- 🌱 I have recently graduated from the Data Analytics Bootcamp with Generation UK.<br>- 📫 How to reach me: www.linkedin.com/in/liovirgilda/<br>- 😄 Pronouns: She/Her<br>- ⚡ Fun fact: I grow organic vegetables at a local allotment.<br><br>
+## Hi there 👋 I'm Liovirgilda Mendonca! Nice to meet you!<br><br>- 🔭 I’m currently working on completing the track "Data Analyst in Power BI" on DataCamp.<br>- 🌱 I have recently graduated from the Data Analytics Bootcamp with Generation UK.<br>- 📫 How to reach me: www.linkedin.com/in/liovirgilda/<br>- 😄 Pronouns: She/Her<br>- ⚡ Fun fact: I grow organic vegetables at a local allotment.<br><br>
 
 
 ## 🌐 Socials:
